@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Phone_Authentication</string>
+    <string name="_91">+91</string>
+    <string name="get_otp">Get OTP</string>
+    <string name="enter_your_phone">Enter your phone</string>
+    <string name="enter_otp">Enter OTP</string>
+    <string name="verify_otp">Verify OTP</string>
+    <string name="todo">TODO</string>
+</resources>
